@@ -1,4 +1,4 @@
 startup_message off
 
 hardstatus alwayslastline
-hardstatus string '%{gk}[ %{G}%H %{g}][%{wk}%?%-Lw%?%{=b kR}(%{W}%n*%f %t%?(%u)%?%{=b kR})%{= w}%?%+Lw%?%?%{g}][%{d}%l%{g}][%{B}%Y-%m-%d %{W}%c %{g}]'
+hardstatus string '%{= kG}[ %{G}%H %{g}][%{w}%?%-Lw%?%{=b kR}(%{W}%n*%f %t%?(%u)%?%{=b kR})%{= w}%?%+Lw%?%?%= %{g}][%{d}%l%{g}][%{B}%Y-%m-%d %{W}%c %{g}]'
